@@ -5,7 +5,7 @@ format = "recipkg/1"
 
 [package]
 name = "openclaw"
-version = "0.1.2"
+version = "0.1.3"
 kind = "software"
 description = "多渠道个人 Agent 与 Gateway 的重建配方草案。"
 entry = "BUILD_PROMPT.md"

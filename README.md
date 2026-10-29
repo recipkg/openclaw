@@ -2,7 +2,7 @@
 
 **多渠道个人 Agent：提炼 Gateway、会话、技能、配对与执行环境。**
 
-[标准库](https://github.com/recipkg/standard-library) · [配方清单](RECIPE.md) · [构建要求](BUILD_PROMPT.md) · [验收条件](ACCEPTANCE.md) · [来源与覆盖](COVERAGE.md)
+[标准库](https://github.com/recipkg/standard-library) · [配方清单](RECIPE.md) · [构建要求](BUILD_PROMPT.md) · [源码观察](GATEWAY-SOURCE-OBSERVED.md) · [验收条件](ACCEPTANCE.md) · [来源与覆盖](COVERAGE.md)
 
 ![从软件与依赖整理配方，再交给 Agent 重建](https://raw.githubusercontent.com/recipkg/recipkg/main/assets/recipkg-cover.png)
 
